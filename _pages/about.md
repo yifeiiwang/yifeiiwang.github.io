@@ -2,7 +2,6 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Fellow, <a href='https://www.csh.ac.at'>Complexity Science Hub</a>, Vienna
 profile:
   align: right
   image: yifeiwang.jpg
