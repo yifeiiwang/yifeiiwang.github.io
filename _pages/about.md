@@ -5,7 +5,7 @@ permalink: /
 subtitle: Lecturer, <a href='https://www.gu.se'>University of Gothenburg</a>
 profile:
   align: right
-  image: prof_pic.jpg
+  image: yifeiwang.jpg
   image_circular: false
   more_info: >
     <p>Vasagatan 1</p>
