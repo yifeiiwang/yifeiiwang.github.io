@@ -15,7 +15,7 @@ An up-to-date list is available on my [Google Scholar](https://scholar.google.co
 
 {% bibliography --file papers %}
 
-<h2>Chinese Publications</h2>
+### Papers in Chinese
 
 {% bibliography --file papers_in_CN %}
 
