@@ -15,10 +15,11 @@ An up-to-date list is available on my [Google Scholar](https://scholar.google.co
 
 {% bibliography --file papers %}
 
-### Thesis
-* [PhD dissertation](https://gupea.ub.gu.se/items/76e7c7bd-75ca-4ca9-a56e-06e152afc274) on firm investment and labor market dynamics
+<h2>Thesis</h2>
 
-### Papers in Chinese
+- [PhD dissertation](https://gupea.ub.gu.se/items/76e7c7bd-75ca-4ca9-a56e-06e152afc274) on firm investment and labor market dynamics
+
+<h2>Papers in Chinese</h2>
 
 {% bibliography --file papers_in_CN %}
 
