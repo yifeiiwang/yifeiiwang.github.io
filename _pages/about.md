@@ -1,15 +1,15 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
-subtitle: Lecturer, <a href='https://www.gu.se'>University of Gothenburg</a>
+subtitle: Postdoctoral Fellow, <a href='https://www.csh.ac.at'>Complexity Science Hub</a>, Vienna
 profile:
   align: right
-  image: yifeiwang.jpg
+  image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Vasagatan 1</p>
-    <p>40530 Gothenburg, Sweden</p>
+    <p>Address: Metternichgasse 8</p>
+    <p>1030 Vienna, Austria</p>
     <p>yifei.wang@gu.se</p>
 selected_papers: false
 social: false
@@ -18,6 +18,6 @@ announcements:
 latest_posts:
   enabled: false
 ---
-I am a Lecturer at the University of Gothenburg. My research sits at the intersection of economic geography, labor markets, and technological change, with a particular focus on R&D investments, firm dynamics, and regional innovation.
+I am a Postdoctoral Researcher in the Transforming Economies group at the <a href="https://www.csh.ac.at">Complexity Science Hub</a> in Vienna, where we apply data science methodologies to explore the impacts of AI on the future of work.
 
-I received my PhD in Economic Geography from the University of Gothenburg in 2025.
+I received my PhD in Economic Geography from the University of Gothenburg in 2025. My PhD dissertation, R&D and Machinery in Regions: lnvestment and Labor Market Dynamics, examines how firm investment in R&D and machinery, shapes regional labor market dynamics in Sweden. 
