@@ -4,9 +4,8 @@ permalink: /publications/
 title: Publications
 nav: true
 nav_order: 2
+description: My publications in chronological order. My works in progress are listen on my CV.
 ---
-
-{% include bib_search.liquid %}
 
 <div class="publications">
 
