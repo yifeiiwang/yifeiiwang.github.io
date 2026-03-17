@@ -7,8 +7,8 @@ nav: true
 nav_order: 6
 calendar: true
 ---
-**Instructor**, University of Gothenburg, 2022–2025
-- Economic Geography: Regional Growth Lab (undergraduate)
+**Instructor**, University of Gothenburg, 2022–2026
+- Economic Geography: Regional Growth Lab (bachelor's)
 - International Business in Asian Emerging Markets (master's)
 - Globalization of Innovation and the Multinational Company (master's)
 
