@@ -11,7 +11,7 @@ profile:
     <p>Vasagatan 1</p>
     <p>40530 Gothenburg, Sweden</p>
     <p>yifei.wang@gu.se</p>
-selected_papers: true
+selected_papers: false
 social: false
 announcements:
   enabled: false
