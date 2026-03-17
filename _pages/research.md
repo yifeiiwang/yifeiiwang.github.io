@@ -15,6 +15,9 @@ An up-to-date list is available on my [Google Scholar](https://scholar.google.co
 
 {% bibliography --file papers %}
 
+### Thesis
+* [PhD dissertation](https://gupea.ub.gu.se/items/76e7c7bd-75ca-4ca9-a56e-06e152afc274) on firm investment and labor market dynamics
+
 ### Papers in Chinese
 
 {% bibliography --file papers_in_CN %}
@@ -22,7 +25,6 @@ An up-to-date list is available on my [Google Scholar](https://scholar.google.co
 </div>
 
 
-### Thesis
-* [PhD dissertation](hhttps://gupea.ub.gu.se/items/76e7c7bd-75ca-4ca9-a56e-06e152afc274) on firm investment and labor market dynamics
+
 
 
