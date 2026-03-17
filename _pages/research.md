@@ -13,23 +13,19 @@ An up-to-date list is available on my [Google Scholar](https://scholar.google.co
 
 <div class="publications">
 
-{% bibliography --file papers %}
-
-</div>
-
 <h2>Thesis</h2>
+<ul>
+  <li><a href="https://gupea.ub.gu.se/items/76e7c7bd-75ca-4ca9-a56e-06e152afc274" target="_blank">PhD dissertation</a> on firm investment and labor market dynamics</li>
+</ul>
 
-- [PhD dissertation](https://gupea.ub.gu.se/items/76e7c7bd-75ca-4ca9-a56e-06e152afc274) on firm investment and labor market dynamics
+<h2>Journal Articles</h2>
 
-</div>
+{% bibliography --file papers %}
 
 <h2>Papers in Chinese</h2>
 
 {% bibliography --file papers_in_CN %}
 
 </div>
-
-
-
 
 
