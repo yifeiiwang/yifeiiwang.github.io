@@ -5,7 +5,7 @@ permalink: /
 subtitle: Postdoctoral Fellow, <a href='https://www.csh.ac.at'>Complexity Science Hub</a>, Vienna
 profile:
   align: right
-  image: prof_pic.jpg
+  image: yifeiwang.jpg
   image_circular: false
   more_info: >
     <p>Address: Metternichgasse 8</p>
