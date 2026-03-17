@@ -8,7 +8,6 @@ nav_order: 6
 calendar: true
 ---
 **Instructor**, University of Gothenburg, 2022–2025
-Lecturing, leading seminar discussions, assessing reports and exams
 - Economic Geography: Regional Growth Lab (undergraduate)
 - International Business in Asian Emerging Markets (master's)
 - Globalization of Innovation and the Multinational Company (master's)
