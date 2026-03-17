@@ -22,11 +22,7 @@ An up-to-date list is available on my [Google Scholar](https://scholar.google.co
 </div>
 
 
-
-#### Theses
-* [PhD thesis](hhttps://gupea.ub.gu.se/items/76e7c7bd-75ca-4ca9-a56e-06e152afc274) on firm investment and labor market dynamics
-
+### Thesis
+* [PhD dissertation](hhttps://gupea.ub.gu.se/items/76e7c7bd-75ca-4ca9-a56e-06e152afc274) on firm investment and labor market dynamics
 
 
-###  Talks
-* Workshop, "TAPAS op tafel: anti-patronen blootleggen voor een transparante informatiehuishouding", [Werkconferentie Open Overheid](https://www.rijksorganisatieodi.nl/actueel/activiteiten/2025/05/21/werkconferentie-open-overheid), I-Partnerschap, The Hague, May, 2025
