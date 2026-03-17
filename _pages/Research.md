@@ -3,6 +3,7 @@ layout: page
 permalink: /research
 title: "Research"
 nav: true
+description: An overview of my academic activities.
 ---
 As a postdoc at [Complexity Science Hub](https://csh.ac.at/), I am part of the [Transforming Economies Group](https://csh.ac.at/research/research-topic/transforming-economies/). Under the supervision of Prof. [Frank Neffke](https://www.frankneffke.com/), I explore firm adaption in the age of AI.
 
