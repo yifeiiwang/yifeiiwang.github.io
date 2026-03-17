@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Lecturer, <a href='https://www.gu.se'>University of Gothenburg</a>
 profile:
