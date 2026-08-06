@@ -17,6 +17,6 @@ announcements:
 latest_posts:
   enabled: false
 ---
-I am a Postdoctoral Researcher in the Transforming Economies group at the <a href="https://www.csh.ac.at">Complexity Science Hub</a> in Vienna, where we apply data science methodologies to explore the impacts of AI on the future of work.
+I am a Postdoctoral Researcher in the Transforming Economies group at the <a href="https://www.csh.ac.at">Complexity Science Hub</a> in Vienna, where we apply data science methods to explore the impacts of AI on the future of work.
 
 I received my PhD in Economic Geography from the University of Gothenburg in 2025. My PhD dissertation, R&D and Machinery in Regions: lnvestment and Labor Market Dynamics, examines how firm investment in R&D and machinery, shapes regional labor market dynamics in Sweden. 
