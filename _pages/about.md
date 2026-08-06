@@ -9,7 +9,7 @@ profile:
   more_info: >
     <p>Address: Metternichgasse 8</p>
     <p>1030 Vienna, Austria</p>
-    <p>yifei.wang@gu.se</p>
+    <p>wang@csh.ac.at</p>
 selected_papers: false
 social: false
 announcements:
